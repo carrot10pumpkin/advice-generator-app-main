@@ -7,20 +7,6 @@ window.onload = () => {
 }
 
 
-
-// fetch('https://api.adviceslip.com/advice')
-//       .then(res => res.json()) // parse response as JSON
-//       .then(advice=> console.log(advice.slip))
-      
-//       .catch(err => {
-//           console.log(`error ${err}`)
-//       });
-
-
-
-
-
-
     function getFetch(){
         let url = `https://api.adviceslip.com/advice`
         
